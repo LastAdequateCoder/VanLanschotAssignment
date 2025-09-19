@@ -13,7 +13,7 @@ This project provides tools for parsing, processing, and writing bond data using
 
 ### 2. Build the Solution
 
-Open the solution in Visual Studio and build, or use the command line:
+Open the solution in Visual Studio and build, or use the command line
 
 ### 3. Running the Application
 
@@ -30,7 +30,9 @@ Tests are located in the `VanLanschot.Tests` project and use [xUnit](https://xun
 
 BondID;Issuer;Rate;FaceValue;PaymentFrequency;Rating;Type;YearsToMaturity;DiscountFactor;DeskNotes
 
-- **Output File:** The processed bonds will be written to a similar CSV file, including a `PresentValue` column.
+- The program looks for a file with a name: "bond_positions_sample.csv", but is ready to process other files through arguments.
+
+- **Output File:** The processed bonds will be written to a similar CSV file, including a `PresentValue` column. The output file is put in the same directory with the program and named "output.csv"
 
 ### 6. Customization
 
