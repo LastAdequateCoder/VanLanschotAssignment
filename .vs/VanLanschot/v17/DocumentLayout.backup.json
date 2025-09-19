@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baran\\source\\repos\\VanLanschot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE017B84-F37C-4FDF-B67A-8BE88E90A227}|VanLanschot\\VanLanschot.csproj|c:\\users\\baran\\source\\repos\\vanlanschot\\vanlanschot\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FE017B84-F37C-4FDF-B67A-8BE88E90A227}|VanLanschot\\VanLanschot.csproj|solutionrelative:vanlanschot\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE017B84-F37C-4FDF-B67A-8BE88E90A227}|VanLanschot\\VanLanschot.csproj|c:\\users\\baran\\source\\repos\\vanlanschot\\vanlanschot\\filehandler\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE017B84-F37C-4FDF-B67A-8BE88E90A227}|VanLanschot\\VanLanschot.csproj|solutionrelative:vanlanschot\\filehandler\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE017B84-F37C-4FDF-B67A-8BE88E90A227}|VanLanschot\\VanLanschot.csproj|c:\\users\\baran\\source\\repos\\vanlanschot\\vanlanschot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE017B84-F37C-4FDF-B67A-8BE88E90A227}|VanLanschot\\VanLanschot.csproj|solutionrelative:vanlanschot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE017B84-F37C-4FDF-B67A-8BE88E90A227}|VanLanschot\\VanLanschot.csproj|c:\\users\\baran\\source\\repos\\vanlanschot\\vanlanschot\\model\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE017B84-F37C-4FDF-B67A-8BE88E90A227}|VanLanschot\\VanLanschot.csproj|solutionrelative:vanlanschot\\model\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE017B84-F37C-4FDF-B67A-8BE88E90A227}|VanLanschot\\VanLanschot.csproj|c:\\users\\baran\\source\\repos\\vanlanschot\\vanlanschot\\model\\bond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE017B84-F37C-4FDF-B67A-8BE88E90A227}|VanLanschot\\VanLanschot.csproj|solutionrelative:vanlanschot\\model\\bond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\baran\\source\\repos\\VanLanschot\\VanLanschot\\README.md",
+              "RelativeDocumentMoniker": "VanLanschot\\README.md",
+              "ToolTip": "C:\\Users\\baran\\source\\repos\\VanLanschot\\VanLanschot\\README.md",
+              "RelativeToolTip": "VanLanschot\\README.md",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-19T18:58:03.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Header.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\source\\repos\\VanLanschot\\VanLanschot\\Model\\Header.cs",
+              "RelativeDocumentMoniker": "VanLanschot\\Model\\Header.cs",
+              "ToolTip": "C:\\Users\\baran\\source\\repos\\VanLanschot\\VanLanschot\\Model\\Header.cs",
+              "RelativeToolTip": "VanLanschot\\Model\\Header.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:46:06.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\source\\repos\\VanLanschot\\VanLanschot\\FileHandler\\FileHandler.cs",
+              "RelativeDocumentMoniker": "VanLanschot\\FileHandler\\FileHandler.cs",
+              "ToolTip": "C:\\Users\\baran\\source\\repos\\VanLanschot\\VanLanschot\\FileHandler\\FileHandler.cs",
+              "RelativeToolTip": "VanLanschot\\FileHandler\\FileHandler.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:47:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bond.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\source\\repos\\VanLanschot\\VanLanschot\\Model\\Bond.cs",
+              "RelativeDocumentMoniker": "VanLanschot\\Model\\Bond.cs",
+              "ToolTip": "C:\\Users\\baran\\source\\repos\\VanLanschot\\VanLanschot\\Model\\Bond.cs",
+              "RelativeToolTip": "VanLanschot\\Model\\Bond.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:25:25.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\source\\repos\\VanLanschot\\VanLanschot\\Program.cs",
+              "RelativeDocumentMoniker": "VanLanschot\\Program.cs",
+              "ToolTip": "C:\\Users\\baran\\source\\repos\\VanLanschot\\VanLanschot\\Program.cs",
+              "RelativeToolTip": "VanLanschot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:23:31.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
